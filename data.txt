@@ -1,5 +1,5 @@
-- path: open_cv_sales
-  name: open_cv_sales
-  rows: 0
-  cols: 26
+- path: hdao_price
+  name: hdao_price
+  rows: 16895
+  cols: 3
   type: table
