@@ -8,3 +8,8 @@
   rows: 16896
   cols: 3
   type: table
+- path: wxtz_price
+  name: wxtz_price
+  rows: 16897
+  cols: 3
+  type: table
