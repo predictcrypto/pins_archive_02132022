@@ -113,3 +113,8 @@
   rows: 8172
   cols: 9
   type: table
+- path: decentraland_market
+  name: decentraland_market
+  rows: 8715
+  cols: 17
+  type: table
