@@ -115,6 +115,6 @@
   type: table
 - path: decentraland_market
   name: decentraland_market
-  rows: 8673
+  rows: 8650
   cols: 17
   type: table
