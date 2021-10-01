@@ -90,7 +90,7 @@
   type: table
 - path: GRT_network_stats
   name: GRT_network_stats
-  rows: 1098
+  rows: 1100
   cols: 62
   type: table
 - path: hitBTC_orderbooks_github
