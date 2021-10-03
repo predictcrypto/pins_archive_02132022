@@ -1,7 +1,7 @@
 path:
 - data.csv
 - data.rds
-rows: 8618
+rows: 8546
 cols: 17
 columns:
   blockNumber: character
