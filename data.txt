@@ -65,7 +65,7 @@
   type: table
 - path: flame_price
   name: flame_price
-  rows: 16916
+  rows: 16915
   cols: 3
   type: table
 - path: stats_hicetnunc
@@ -115,7 +115,7 @@
   type: table
 - path: decentraland_market
   name: decentraland_market
-  rows: 8546
+  rows: 8502
   cols: 17
   type: table
 - path: full_metrics
