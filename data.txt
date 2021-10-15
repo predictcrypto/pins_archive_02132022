@@ -55,7 +55,7 @@
   type: table
 - path: bdao_price
   name: bdao_price
-  rows: 16783
+  rows: 16782
   cols: 3
   type: table
 - path: plenty_price
@@ -125,11 +125,11 @@
   type: table
 - path: crypto_tutorial_holdout_predictions_old
   name: crypto_tutorial_holdout_predictions_old
-  rows: 11945
+  rows: 12125
   cols: 9
   type: table
 - path: crypto_tutorial_holdout_predictions
   name: crypto_tutorial_holdout_predictions
-  rows: 11945
+  rows: 12125
   cols: 9
   type: table
