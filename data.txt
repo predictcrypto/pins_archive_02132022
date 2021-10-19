@@ -15,7 +15,7 @@
   type: table
 - path: stkr_price
   name: stkr_price
-  rows: 16857
+  rows: 16856
   cols: 3
   type: table
 - path: kusd_price
@@ -90,7 +90,7 @@
   type: table
 - path: GRT_network_stats
   name: GRT_network_stats
-  rows: 1521
+  rows: 1523
   cols: 62
   type: table
 - path: hitBTC_orderbooks_github
