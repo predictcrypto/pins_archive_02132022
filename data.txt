@@ -65,7 +65,7 @@
   type: table
 - path: flame_price
   name: flame_price
-  rows: 16979
+  rows: 16980
   cols: 3
   type: table
 - path: stats_hicetnunc
