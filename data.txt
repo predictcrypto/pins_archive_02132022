@@ -5,7 +5,7 @@
   type: table
 - path: wrap_price
   name: wrap_price
-  rows: 17037
+  rows: 17038
   cols: 3
   type: table
 - path: wxtz_price
@@ -90,7 +90,7 @@
   type: table
 - path: GRT_network_stats
   name: GRT_network_stats
-  rows: 1558
+  rows: 1557
   cols: 62
   type: table
 - path: hitBTC_orderbooks_github
