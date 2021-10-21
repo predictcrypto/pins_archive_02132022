@@ -1,6 +1,6 @@
 - path: hdao_price
   name: hdao_price
-  rows: 17067
+  rows: 17068
   cols: 3
   type: table
 - path: wrap_price
