@@ -60,7 +60,7 @@
   type: table
 - path: plenty_price
   name: plenty_price
-  rows: 17277
+  rows: 17276
   cols: 3
   type: table
 - path: flame_price
@@ -115,7 +115,7 @@
   type: table
 - path: decentraland_market
   name: decentraland_market
-  rows: 7842
+  rows: 7827
   cols: 17
   type: table
 - path: full_metrics
