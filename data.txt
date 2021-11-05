@@ -1,6 +1,6 @@
 - path: hdao_price
   name: hdao_price
-  rows: 17236
+  rows: 17238
   cols: 3
   type: table
 - path: wrap_price
@@ -75,7 +75,7 @@
   type: table
 - path: stats_hicetnunc_new
   name: stats_hicetnunc_new
-  rows: 2671
+  rows: 2670
   cols: 14
   type: table
 - path: stats_kalamint
