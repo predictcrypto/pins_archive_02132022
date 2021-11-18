@@ -55,7 +55,7 @@
   type: table
 - path: bdao_price
   name: bdao_price
-  rows: 17222
+  rows: 17220
   cols: 3
   type: table
 - path: plenty_price
@@ -75,7 +75,7 @@
   type: table
 - path: stats_hicetnunc_new
   name: stats_hicetnunc_new
-  rows: 2674
+  rows: 2675
   cols: 14
   type: table
 - path: stats_kalamint
