@@ -25,7 +25,7 @@
   type: table
 - path: usds_price
   name: usds_price
-  rows: 17162
+  rows: 17161
   cols: 3
   type: table
 - path: usdtz_price
@@ -75,7 +75,7 @@
   type: table
 - path: stats_hicetnunc_new
   name: stats_hicetnunc_new
-  rows: 2662
+  rows: 2663
   cols: 14
   type: table
 - path: stats_kalamint
