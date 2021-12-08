@@ -35,7 +35,7 @@
   type: table
 - path: ethtz_price
   name: ethtz_price
-  rows: 17145
+  rows: 17146
   cols: 3
   type: table
 - path: sdao_price
@@ -125,7 +125,7 @@
   type: table
 - path: crypto_tutorial_holdout_predictions_old
   name: crypto_tutorial_holdout_predictions_old
-  rows: 11085
+  rows: 11470
   cols: 9
   type: table
 - path: crypto_tutorial_holdout_predictions
