@@ -15,7 +15,7 @@
   type: table
 - path: stkr_price
   name: stkr_price
-  rows: 17212
+  rows: 17213
   cols: 3
   type: table
 - path: kusd_price
@@ -130,6 +130,6 @@
   type: table
 - path: crypto_tutorial_holdout_predictions
   name: crypto_tutorial_holdout_predictions
-  rows: 6080
+  rows: 6585
   cols: 9
   type: table
