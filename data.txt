@@ -15,7 +15,7 @@
   type: table
 - path: stkr_price
   name: stkr_price
-  rows: 17161
+  rows: 17159
   cols: 3
   type: table
 - path: kusd_price
@@ -75,7 +75,7 @@
   type: table
 - path: stats_hicetnunc_new
   name: stats_hicetnunc_new
-  rows: 2081
+  rows: 2082
   cols: 14
   type: table
 - path: stats_kalamint
