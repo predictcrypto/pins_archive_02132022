@@ -65,7 +65,7 @@
   type: table
 - path: flame_price
   name: flame_price
-  rows: 17202
+  rows: 17203
   cols: 3
   type: table
 - path: stats_hicetnunc
@@ -75,7 +75,7 @@
   type: table
 - path: stats_hicetnunc_new
   name: stats_hicetnunc_new
-  rows: 2120
+  rows: 2123
   cols: 14
   type: table
 - path: stats_kalamint
