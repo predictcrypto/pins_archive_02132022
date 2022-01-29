@@ -55,7 +55,7 @@
   type: table
 - path: bdao_price
   name: bdao_price
-  rows: 17220
+  rows: 17221
   cols: 3
   type: table
 - path: plenty_price
@@ -70,7 +70,7 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 2150
+  rows: 2149
   cols: 10
   type: table
 - path: stats_hicetnunc_new
